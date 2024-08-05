@@ -16,7 +16,8 @@ By combining these technologies, I've managed to:
 I have also learned to train a RAG model with PDFs and answer questions based on the extracted information. This capability significantly expands the potential applications of AI in document analysis and knowledge extraction.
 
 # Usage
-To run the project, ensure you have all the required dependencies installed. You can install the dependencies using:<br />
+To run the project, ensure you have all the required dependencies installed. <br />
+You can install the dependencies using:<br />
 pip install -r requirements.txt
 
 # Once the dependencies are installed, you can start the Streamlit application using:<br />
