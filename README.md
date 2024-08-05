@@ -10,3 +10,23 @@ By combining these technologies, I've managed to:
 ✅ Utilize Sentence Transformers for efficient text embedding
 ✅ Connect and interact with MySQL databases seamlessly
 ✅ Leverage ChromaDB for scalable and fast data access
+
+
+# Additional Learning
+I have also learned to train a RAG model with PDFs and answer questions based on the extracted information. This capability significantly expands the potential applications of AI in document analysis and knowledge extraction.
+
+# Usage
+To run the project, ensure you have all the required dependencies installed. You can install the dependencies using:
+
+# Copy code
+pip install langchain==0.0.284 python-dotenv==1.0.0 streamlit==1.22.0 tiktoken==0.4.0 faiss-cpu==1.7.4 protobuf~=3.19.0 mysql-connector-python pymysql sentence-transformers chromadb pypdf pytest
+
+# Once the dependencies are installed, you can start the Streamlit application using:
+streamlit run database-qa.py
+streamlit run query-data.py
+
+# Future Work
+Looking forward to applying these skills to drive innovation and deliver exceptional solutions. The potential for AI in document analysis and natural language processing is vast, and I am excited to continue exploring and pushing the boundaries of what’s possible.
+
+# Contact
+Feel free to reach out if you have any questions or would like to discuss AI and machine learning further!
