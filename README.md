@@ -4,12 +4,12 @@ This project showcases my recent dive into creating a robust AI solution that an
 
 By combining these technologies, I've managed to:
 
-✅ Enhance data retrieval with LangChain and FAISS
-✅ Simplify environment management with python-dotenv
-✅ Create an interactive user interface using Streamlit
-✅ Utilize Sentence Transformers for efficient text embedding
-✅ Connect and interact with MySQL databases seamlessly
-✅ Leverage ChromaDB for scalable and fast data access
+## ✅ Enhance data retrieval with LangChain and FAISS
+## ✅ Simplify environment management with python-dotenv
+## ✅ Create an interactive user interface using Streamlit
+## ✅ Utilize Sentence Transformers for efficient text embedding
+## ✅ Connect and interact with MySQL databases seamlessly
+## ✅ Leverage ChromaDB for scalable and fast data access
 
 
 # Additional Learning
@@ -18,8 +18,8 @@ I have also learned to train a RAG model with PDFs and answer questions based on
 # Usage
 To run the project, ensure you have all the required dependencies installed. You can install the dependencies using:
 
-# Copy code
-pip install langchain==0.0.284 python-dotenv==1.0.0 streamlit==1.22.0 tiktoken==0.4.0 faiss-cpu==1.7.4 protobuf~=3.19.0 mysql-connector-python pymysql sentence-transformers chromadb pypdf pytest
+# install dependencies
+pip install -r requirements.txt
 
 # Once the dependencies are installed, you can start the Streamlit application using:
 streamlit run database-qa.py
