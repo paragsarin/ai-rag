@@ -1,4 +1,4 @@
-# AI Learning Journey - RAG
+# AI Learning - RAG
 Overview
 This project showcases my recent dive into creating a robust AI solution that answers questions in plain language from a database. Leveraging the power of LangChain and Retrieval-Augmented Generation (RAG), I've built a seamless and intuitive system integrating various cutting-edge tools.
 
