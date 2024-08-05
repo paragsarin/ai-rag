@@ -19,9 +19,9 @@ I have also learned to train a RAG model with PDFs and answer questions based on
 To run the project, ensure you have all the required dependencies installed. You can install the dependencies using:\
 pip install -r requirements.txt
 
-# Once the dependencies are installed, you can start the Streamlit application using:\
-streamlit run database-qa.py\
-streamlit run query-data.py\
+# Once the dependencies are installed, you can start the Streamlit application using:<br />
+streamlit run database-qa.py<br />
+streamlit run query-data.py<br />
 
 # Future Work
 Looking forward to applying these skills to drive innovation and deliver exceptional solutions. The potential for AI in document analysis and natural language processing is vast, and I am excited to continue exploring and pushing the boundaries of what’s possible.
