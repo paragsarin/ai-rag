@@ -17,8 +17,6 @@ I have also learned to train a RAG model with PDFs and answer questions based on
 
 # Usage
 To run the project, ensure you have all the required dependencies installed. You can install the dependencies using:
-
-# install dependencies
 pip install -r requirements.txt
 
 # Once the dependencies are installed, you can start the Streamlit application using:
