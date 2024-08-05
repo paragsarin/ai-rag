@@ -4,19 +4,19 @@ This project showcases my recent dive into creating a robust AI solution that an
 
 By combining these technologies, I've managed to:
 
-## ✅ Enhance data retrieval with LangChain and FAISS
-## ✅ Simplify environment management with python-dotenv
-## ✅ Create an interactive user interface using Streamlit
-## ✅ Utilize Sentence Transformers for efficient text embedding
-## ✅ Connect and interact with MySQL databases seamlessly
-## ✅ Leverage ChromaDB for scalable and fast data access
+<br />✅ Enhance data retrieval with LangChain and FAISS
+<br />✅ Simplify environment management with python-dotenv
+<br />✅ Create an interactive user interface using Streamlit
+<br />✅ Utilize Sentence Transformers for efficient text embedding
+<br />✅ Connect and interact with MySQL databases seamlessly
+<br />✅ Leverage ChromaDB for scalable and fast data access
 
 
 # Additional Learning
 I have also learned to train a RAG model with PDFs and answer questions based on the extracted information. This capability significantly expands the potential applications of AI in document analysis and knowledge extraction.
 
 # Usage
-To run the project, ensure you have all the required dependencies installed. You can install the dependencies using:\
+To run the project, ensure you have all the required dependencies installed. You can install the dependencies using:<br />
 pip install -r requirements.txt
 
 # Once the dependencies are installed, you can start the Streamlit application using:<br />
